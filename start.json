@@ -1,0 +1,5 @@
+{
+    "name": "Start Stremio",
+    "version": "1.0.0",
+    "parameter": "link:https://tv.strem.io"
+}
