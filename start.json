@@ -1,5 +1,6 @@
-{
-    "name": "Start Stremio",
+{    
+    "name": "Start StremioMSX",
     "version": "1.0.0",
-    "parameter": "link:https://tv.strem.io"
+    "parameter": "content:https://sanakasa.github.io/msx/data/content.json",
+    "welcome": "none"
 }
